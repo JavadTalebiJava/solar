@@ -6,7 +6,7 @@ import java.io.Serializable;
 /**
  * Initial process storage representation.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @Entity
 @Table(name = "initial_process")

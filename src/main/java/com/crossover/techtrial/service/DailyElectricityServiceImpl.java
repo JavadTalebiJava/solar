@@ -15,7 +15,7 @@ import static java.util.stream.Collectors.toList;
 /**
  * Implementation of {@link DailyElectricityService}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @Service
 public class DailyElectricityServiceImpl implements DailyElectricityService {

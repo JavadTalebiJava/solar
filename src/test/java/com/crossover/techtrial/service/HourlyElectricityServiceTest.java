@@ -22,7 +22,7 @@ import static org.mockito.Mockito.when;
 /**
  * Unit tests for {@link HourlyElectricityService}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public class HourlyElectricityServiceTest {
 

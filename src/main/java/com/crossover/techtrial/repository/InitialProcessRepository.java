@@ -8,7 +8,7 @@ import java.util.Optional;
 /**
  * Repository is for all operations for all {@link InitialProcess}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public interface InitialProcessRepository extends JpaRepository<InitialProcess, Long> {
 

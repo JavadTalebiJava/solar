@@ -21,7 +21,7 @@ import static org.mockito.Mockito.when;
 /**
  * Unit tests for {@link DailyElectricityService}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public class DailyElectricityServiceTest {
 

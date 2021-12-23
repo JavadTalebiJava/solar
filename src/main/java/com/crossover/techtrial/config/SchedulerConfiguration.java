@@ -14,7 +14,7 @@ import java.time.Duration;
 /**
  * Configures the scheduler.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @Component
 @EnableScheduling

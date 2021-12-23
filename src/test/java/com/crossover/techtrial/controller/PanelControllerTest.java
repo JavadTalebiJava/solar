@@ -29,7 +29,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * PanelControllerTest class will test all APIs in PanelController.java.
  *
  * @author Crossover
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @RunWith(SpringRunner.class)
 @AutoConfigureMockMvc

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Services for {@link DailyElectricity}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public interface DailyElectricityService {
 

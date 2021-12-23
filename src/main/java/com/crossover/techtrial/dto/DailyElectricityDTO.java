@@ -9,7 +9,7 @@ import java.time.LocalDate;
  * DailyElectricityDTO class will hold sum, average,minimum and maximum electricity for a given day.
  *
  * @author Crossover
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public class DailyElectricityDTO implements Serializable {
   

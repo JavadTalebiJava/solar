@@ -21,7 +21,7 @@ import java.util.LongSummaryStatistics;
 /**
  * Job to consolidate on daily bases all the electricity generated.s
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @Component
 @ConditionalOnProperty(value = "crosssolar.scheduler.enabled", havingValue = "true", matchIfMissing = true)

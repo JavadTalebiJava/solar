@@ -12,7 +12,7 @@ import java.util.List;
  * HourlyElectricityService interface for all services related to HourlyElectricity.
  *
  * @author Crossover
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public interface HourlyElectricityService {
 

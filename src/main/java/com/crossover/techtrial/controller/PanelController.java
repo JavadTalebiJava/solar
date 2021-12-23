@@ -20,7 +20,7 @@ import org.springframework.web.util.UriComponentsBuilder;
  * Panel Controller for all Rest APIs related to Panel.
  *
  * @author Crossover
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @RestController
 @RequestMapping("/api")

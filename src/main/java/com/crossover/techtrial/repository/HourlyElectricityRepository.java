@@ -13,7 +13,7 @@ import java.util.List;
  * HourlyElectricity Repository is for all operations for HourlyElectricity.
  *
  * @author Crossover
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public interface HourlyElectricityRepository extends PagingAndSortingRepository<HourlyElectricity, Long> {
     Page<HourlyElectricity> findAllByPanelId(Long panelId, Pageable pageable);

@@ -18,7 +18,7 @@ import static org.mockito.Mockito.when;
 /**
  * Unit tests for {@link PanelService}.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 public class PanelServiceTest {
 

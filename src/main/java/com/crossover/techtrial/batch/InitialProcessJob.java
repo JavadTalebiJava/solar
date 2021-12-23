@@ -28,7 +28,7 @@ import static com.crossover.techtrial.batch.DailyElectricityAggregatorJob.ZONE_I
 /**
  * Class responsible to verify and process the first initial data.
  *
- * @author Marcos Barbero
+ * @author Javad Talebi
  */
 @Component
 public class InitialProcessJob implements CommandLineRunner {
@@ -101,7 +101,7 @@ public class InitialProcessJob implements CommandLineRunner {
     /**
      * Row mapper for daily aggregation.
      *
-     * @author Marcos Barbero
+     * @author Javad Talebi
      */
     class DailyAggregationRowMapper implements RowMapper<DailyElectricityDTO> {
 
